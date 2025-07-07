@@ -2,7 +2,9 @@
 
 A fan-made **Sonic endless runner** game built with **JavaScript** and **Kaplay**. Collect 🏅 rings, dodge 🦾 enemies, and achieve the **highest score possible**!
 
-![Sonic Ring Run Screenshot](screenshots/game.png)
+![Sonic Ring Run Screenshot](screenshots/sonic.png)
+![Sonic Ring Run Screenshot](screenshots/sonic1.png)
+![Sonic Ring Run Screenshot](screenshots/sonic2.png)
 
 ---
 
